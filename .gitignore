@@ -35,3 +35,8 @@ yarn-error.log*
 src/template/Home/styles.ts
 src/template/Home/index.tsx
 next-env.d.ts
+src/components/TestComponent/index.tsx
+src/components/TestComponent/index.tsx
+src/components/TestComponent/stories.tsx
+src/components/TestComponent/index.tsx
+src/components/TestComponent/test.tsx
